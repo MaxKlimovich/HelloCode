@@ -1,6 +1,6 @@
 ﻿int a = 1;
 int b = 13;
-int c = 4;
+int c = 43;
 int d = 8;
 int e = 14;
 
